@@ -2,7 +2,7 @@ Repository: PythonFinance-PortfolioOptimization
 
 Python for Portfolio Optimization: The Ascent! 
 ==============================================
-First working lessons to ascend the hilly terrain of Portfolio Optimization in seven strides (lessons), beginning with the fundamentals (Lesson 1) to reach the first peak of portfolio optimization models (Lesson 7), amongst a range of peaks waiting beyond!
+Python for Portfolio Optimization: The Ascent! First working lessons to ascend the hilly terrain of Portfolio Optimization in seven strides (Lessons), beginning with the fundamentals (Lesson 1) and climbing slope after slope (Lessons 2-6),  to reach the first peak of constrained  portfolio optimization models (Lesson 7), amongst a range of peaks waiting beyond!
 
 ----------------------------------------------
 Lesson1: Fundamentals of Risk and Return of a Portfolio 
